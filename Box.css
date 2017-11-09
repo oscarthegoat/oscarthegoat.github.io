@@ -1,0 +1,10 @@
+#box {
+	width: 50%;
+	height: 200px;
+
+	margin: 10px auto 10px auto;
+
+	padding: 25px;
+	border: 2px solid black;
+	background-color: rgb(225, 225, 255);
+}
